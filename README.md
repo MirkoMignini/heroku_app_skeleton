@@ -1,1 +1,1 @@
-# heroku_test
+# Heroku app skeleton
