@@ -1,6 +1,6 @@
 {
   "name": "Heroku app skeleton",
-  "description": "Just a classic "Hello Heroku" app made using Ruby and Sinatra",
+  "description": "Just a classic 'Hello Heroku' app made using Ruby and Sinatra",
   "repository": "https://github.com/MirkoMignini/heroku_app_skeleton",
   "keywords": ["ruby", "sinatra"]
 }
